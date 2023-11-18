@@ -1,6 +1,6 @@
 ### Hey there, I'm Victor Wu 😸
 
-🌐 <a href="https://victorwu.xyz/">victorwu.xyz</a>
+🌐 <a href="http://victorwu.xyz/">victorwu.xyz</a>
 
 <!--
 **wu-victor/wu-victor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
